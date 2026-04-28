@@ -1,2 +1,2 @@
-# HIPPA-DGCN
-HIPPA-DGCN: Survival Analysis on Whole Slide Images via Hyper-Image Patches and Position-Aware Dense Graph Convolutional Networks
+# HIPPA-DGCN：Survival Analysis on Whole Slide Images via Hyper-Image Patches and Position-Aware Dense Graph Convolutional Networks
+the code will be released soon
